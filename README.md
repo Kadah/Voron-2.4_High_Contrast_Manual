@@ -1,6 +1,8 @@
 # Voron-2.4_High_Contrast_Manual
 A modified version of the Voron 2.4 build manual for accessibility.
 
+If this was helpful, please drop a comment on https://github.com/VoronDesign/Voron-2/issues/443 so VoronDesign can see that users need this on future versions. A star on the repo would also be appreciated.
+
 ## Background
 
 The StealthBurner manual has a "high contrast" version with normal solid black text which is much more accessible for many people. The light grey text on white is nearly impossibe for me and others to read comfortably, or in my case, at all.
